@@ -6,8 +6,5 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "spellcheckLanguages": [
-    "de",
-    "en"
-  ]
+  "spellcheckLanguages": null
 }
