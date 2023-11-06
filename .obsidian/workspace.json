@@ -31,11 +31,9 @@
             "id": "1efa33bfdeefbdf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Quellen.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Projektorganisation/Kanban.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quellen.md",
+                "file": "docs/Projektorganisation/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quellen.md",
+                "file": "docs/Projektorganisation/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quellen.md"
+                "file": "docs/Projektorganisation/Kanban.md"
               }
             }
           }
@@ -171,11 +169,12 @@
   "active": "1efa33bfdeefbdf9",
   "lastOpenFiles": [
     "docs/Projektorganisation/Projektmethode.md",
+    "README.md",
+    "Anhang/Quellen.md",
+    "Anhang",
+    "Anhang/Recherche.md",
     "docs/Projektorganisation/Kanban.md",
     "docs/Projektorganisation/Untitled",
-    "README.md",
-    "Quellen.md",
-    "Recherche.md",
     "docs/Projektorganisation/Sprints",
     "2023-11-06.md",
     "docs/Projektorganisation",
