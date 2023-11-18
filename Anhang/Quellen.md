@@ -15,3 +15,6 @@
 
 #### Website
 [How to set up simple image upload with Node and AWS S3 (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-set-up-simple-image-upload-with-node-and-aws-s3-84e609248792)
+
+Lamda Github einrichten
+https://blog.jakoblind.no/aws-lambda-github-actions/

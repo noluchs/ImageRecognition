@@ -7,22 +7,22 @@ kanban-plugin: basic
 ## Pool
 
 - [ ] Website
-- [ ] GitLab Pipline Einrichten
 
 
 ## Freigeben
 
+- [ ] GitLab Pipline Einrichten
 
 
 ## Spezifikation
 
-- [ ] Aufbau S3
-- [ ] AWS Lamda einrichten
 
 
 ## Impletation
 
 - [ ] AWS Rekoginiton erster Test @{2023-11-26}
+- [ ] AWS Lamda einrichten
+- [ ] Aufbau S3
 
 
 ## Intergration

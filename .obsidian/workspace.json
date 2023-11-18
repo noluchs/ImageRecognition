@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "490a9bf1ece9392c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7003a87e8677b4c4",
             "type": "leaf",
             "state": {
@@ -30,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efb844cc618c0d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anhang/Quellen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33436ad13987ba3c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "docs/Projektorganisation/Kanban.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau S3.md",
+                "file": "Anhang/Quellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau S3.md",
+                "file": "Anhang/Quellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau S3.md"
+                "file": "Anhang/Quellen.md"
               }
             }
           }
@@ -159,13 +170,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "490a9bf1ece9392c",
+  "active": "efb844cc618c0d79",
   "lastOpenFiles": [
-    "docs/Aufbau Umgebung/Pasted image 20231115095003.png",
+    "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md",
-    "docs/Aufbau Umgebung/Aufbau S3.md",
-    "docs/Aufbau Umgebung/Unbenannt",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20231115100913.png",
     "docs/Projektorganisation/Kanban.md",
+    "docs/Aufbau Umgebung/Aufbau S3.md",
+    "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20231115095446.png",
+    "docs/Aufbau Umgebung/attachments",
+    "docs/Aufbau Umgebung/Pasted image 20231115095003.png",
+    "docs/Aufbau Umgebung/Unbenannt",
     "docs/Aufbau Umgebung",
     "Anhang/Quellen.md",
     "README.md",
@@ -174,11 +190,9 @@
     "docs/Projektorganisation/Sprint/Sprint 2",
     "docs/Projektorganisation/Sprint/Sprint 1",
     "docs/Projektorganisation/Sprint",
-    "Anhang/Recherche.md",
     "Anhang",
     "docs/Projektorganisation/Untitled",
     "docs/Projektorganisation/Sprints",
-    "2023-11-06.md",
-    "docs/Projektorganisation"
+    "2023-11-06.md"
   ]
 }

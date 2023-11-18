@@ -6,3 +6,6 @@ https://docs.aws.amazon.com/rekognition/latest/dg/faces.html?pg=ln&sec=ft
 # Links
 
 https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212
+
+
+

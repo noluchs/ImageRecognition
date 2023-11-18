@@ -5,6 +5,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "spellcheckLanguages": null
 }
