@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] AWS Rekoginiton erster Test @{2023-11-26}
 - [ ] AWS Lamda einrichten
 - [ ] Aufbau S3
+- [ ] Dokumentieren
 
 
 ## Intergration
@@ -35,7 +36,6 @@ kanban-plugin: basic
 
 ## Erledigt
 
-**Fertiggestellt**
 
 
 
