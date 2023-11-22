@@ -73,4 +73,6 @@ Die Hauptrisiken in diesem Projekt sind:
 
 
 
+
+
 Diese Dokumentation ist in Obsidian geschrieben für die beste Qualität, die Arbeit mit Obsidian öffnen [Obsidian Herunterladen](https://obsidian.md/)
