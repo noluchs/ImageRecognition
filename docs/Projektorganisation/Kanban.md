@@ -7,6 +7,10 @@ kanban-plugin: basic
 ## Pool
 
 - [ ] Website
+- [ ] Abschluss Sprint 1
+- [ ] Abschluss Sprint 2
+- [ ] Abschluss Sprint 3
+- [ ] Presentation erstellen
 
 
 ## Freigeben
