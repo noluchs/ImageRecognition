@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dac36567e2283e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Aufbau Umgebung/Aufbau S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44cbeae0be5c6d0",
+            "id": "efb844cc618c0d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Anhang/Quellen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b787462f16f55c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33436ad13987ba3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anhang/Quellen.md"
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md"
               }
             }
           }
@@ -163,50 +175,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a44cbeae0be5c6d0",
+  "active": "b787462f16f55c90",
   "lastOpenFiles": [
-    "docs/Aufbau Umgebung/AWS Lamda Rekognition Test.md",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124162422.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124162207.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124161910.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231115095446.png",
+    "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
+    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+    "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "README.md",
-    "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124160203.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124154451.png",
-    "Anhang/Quellen.md",
-    "Anhang/Recherche.md",
+    "docs/Aufbau Umgebung/readme.md",
+    "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",
+    "docs/Projektorganisation/Sprints/attachments",
     "docs/Projektorganisation/Kanban.md",
-    "docs/Projektorganisation/Projektmethode.md",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20231124230529.png",
+    "etc/1 Test Face Comersion/noah-3.jpg",
+    "etc/1 Test Face Comersion/IMG_20220809_152206_699_Original.jpg",
+    "etc/1 Test Face Comersion/noah-2.jpg",
+    "etc/1 Test Face Comersion/IMG_0333_Original.jpg",
+    "etc/1 Test Face Comersion/noah-1.jpeg",
+    "etc/1 Test Face Comersion/11-realfakephotos-2-75679b26fc9a4da3bb4321dcbf606351.jpeg",
+    "etc/1 Test Face Comersion/bezzos-4.jpeg",
+    "etc/1 Test Face Comersion/bezzos-3.jpg",
+    "etc/1 Test Face Comersion/jeff-bezos.avif",
+    "etc/1 Test Face Comersion/bezos-1.avif",
+    "etc/1 Test Face Comersion/bezos-final-0404-jpg.avif",
+    "etc/1 Test Face Comersion",
+    "etc/untitled folder",
+    "Anhang/Quellen.md",
+    "try2.py",
+    "Anhang/Recherche.md",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
-    "docs/Einleitung/readme.md",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124125505.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124125229.png",
-    "etc/Testbilder/DSC_9981.jpg",
-    "etc/Testbilder/DSC_9980.jpg",
+    "docs/Projektorganisation/Sprints",
     "etc/Testbilder/Photos",
     "etc/Testbilder/Photos.zip",
-    "etc/Testbilder",
-    "etc",
-    "firsttry.py",
-    "docs/Einleitung",
+    "docs/Einleitung/readme.md",
+    "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md",
     "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md",
-    "docs/Aufbau Umgebung/attachments",
-    "docs/Aufbau Umgebung/Unbenannt",
-    "docs/Aufbau Umgebung",
-    "docs/Projektorganisation/Sprint/Sprint 3",
+    "docs/Projektorganisation/Projektmethode.md",
     "2023-11-06.md"
   ]
 }

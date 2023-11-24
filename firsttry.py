@@ -1,38 +1,45 @@
 import boto3
-from PIL import Image, ImageFilter
+
+BUCKET = "imagerekognition-s3-test"
+KEY_SOURCE = "noah-2.jpg"
+KEY_TARGET = "noah-3.jpg"
 
 def lambda_handler(event, context):
-    s3_client = boto3.client('s3')
-    rekognition_client = boto3.client('rekognition')
+    source_face, matches = compare_faces(BUCKET, KEY_SOURCE, BUCKET, KEY_TARGET)
 
-    # Definieren Sie Ihren eigenen Bucket-Namen und Dateinamen
-    bucket = 'imagerekognition-s3'
-    source_image = 'DSC_0125.jpg'
-    target_image = 'DSC_0129.jpg'
+    # Print information about the source face, if available
+    if source_face:
+        print("Source Face ({Confidence}%)".format(**source_face))
+    else:
+        print("No source face found in the image.")
 
-    # Vergleichen Sie das Quellbild mit dem Zielbild
-    response = rekognition_client.compare_faces(
-        SourceImage={'S3Object': {'Bucket': bucket, 'Name': source_image}},
-        TargetImage={'S3Object': {'Bucket': bucket, 'Name': target_image}}
+    # Print information about each matched face, if available
+    for match in matches:
+        face = match.get('Face', {})
+        similarity = match.get('Similarity', 0)
+        print("Target Face ({Confidence}%)".format(**face))
+        print("  Similarity : {}%".format(similarity))
+
+def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="us-east-1"):
+    rekognition = boto3.client("rekognition", region)
+    response = rekognition.compare_faces(
+        SourceImage={
+            "S3Object": {
+                "Bucket": bucket,
+                "Name": key,
+            }
+        },
+        TargetImage={
+            "S3Object": {
+                "Bucket": bucket_target,
+                "Name": key_target,
+            }
+        },
+        SimilarityThreshold=threshold,
     )
 
-    # Überprüfen Sie, ob die Gesichter identisch sind
-    for face_match in response['FaceMatches']:
-        if face_match['Similarity'] > 90:  # Ändern Sie den Schwellenwert nach Bedarf
-            # Laden Sie das Zielbild herunter
-            s3_client.download_file(bucket, target_image, '/tmp/target.jpg')
-            
-            # Machen Sie das Bild unscharf
-            img = Image.open('/tmp/target.jpg')
-            blurred_img = img.filter(ImageFilter.BLUR)
-            
-            # Speichern Sie das unscharfe Bild
-            blurred_img.save('/tmp/blurred_target.jpg')
-            
-            # Laden Sie das unscharfe Bild in den S3-Bucket hoch
-            s3_client.upload_file('/tmp/blurred_target.jpg', bucket, 'blurred_target.jpg')
+    # Check if 'SourceImageFace' and 'FaceMatches' keys exist in the response
+    source_face = response.get('SourceImageFace', {})
+    matches = response.get('FaceMatches', [])
 
-    return {
-        'statusCode': 200,
-        'body': 'Bildverarbeitung abgeschlossen'
-    }
+    return source_face, matches

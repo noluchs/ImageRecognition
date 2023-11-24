@@ -6,6 +6,8 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 
 
 ## Inhaltsverzeichnis
+### Aufbau Umgebung
+[AWS Rekognition Ersterversuch](docs/Aufbau%20Umgebung/AWS%20Rekognition%20Ersterversuch.md)
 
 ### Projektmanagement
 #### Sprint 
