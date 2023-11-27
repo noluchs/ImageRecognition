@@ -7,10 +7,13 @@ kanban-plugin: basic
 ## Pool
 
 - [ ] Website
-- [ ] Abschluss Sprint 2
-- [ ] Abschluss Sprint 3
 - [ ] Presentation erstellen
+- [ ] Abschluss Sprint 3
+- [ ] Abschluss Sprint 2
 - [ ] GitLab Pipline Einrichten
+- [ ] Schnitstelle Upload Bilder S3
+- [ ] Testen
+- [ ] Ausgabe in Gallery
 
 
 ## Impletation
@@ -18,6 +21,7 @@ kanban-plugin: basic
 - [ ] AWS Lamda einrichten
 - [ ] Aufbau S3
 - [ ] Dokumentieren
+- [ ] AWS Rekognition eine Gallery vergelichen
 
 
 ## Erledigt

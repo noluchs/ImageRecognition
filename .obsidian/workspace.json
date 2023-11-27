@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md"
+                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md"
               }
             }
           }
@@ -175,27 +175,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "b787462f16f55c90",
   "lastOpenFiles": [
+    "docs/Projektorganisation/Sprints/attachments/Pasted image 20231127141432.png",
+    "docs/Projektorganisation/Kanban.md",
+    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+    "README.md",
     "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
-    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
-    "README.md",
     "docs/Aufbau Umgebung/readme.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",
     "docs/Projektorganisation/Sprints/attachments",
-    "docs/Projektorganisation/Kanban.md",
     "docs/Aufbau Umgebung/attachments/Pasted image 20231124230529.png",
     "etc/1 Test Face Comersion/noah-3.jpg",
     "etc/1 Test Face Comersion/IMG_20220809_152206_699_Original.jpg",
