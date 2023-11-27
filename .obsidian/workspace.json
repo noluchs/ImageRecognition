@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+                "file": "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+                "file": "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+                "file": "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md"
+                "file": "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md"
               }
             }
           }
@@ -186,9 +186,10 @@
   },
   "active": "b787462f16f55c90",
   "lastOpenFiles": [
+    "docs/Aufbau Umgebung/attachments/Pasted image 20231127144521.png",
+    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231127141432.png",
     "docs/Projektorganisation/Kanban.md",
-    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "README.md",
     "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
@@ -205,7 +206,6 @@
     "etc/1 Test Face Comersion/noah-1.jpeg",
     "etc/1 Test Face Comersion/11-realfakephotos-2-75679b26fc9a4da3bb4321dcbf606351.jpeg",
     "etc/1 Test Face Comersion/bezzos-4.jpeg",
-    "etc/1 Test Face Comersion/bezzos-3.jpg",
     "etc/1 Test Face Comersion/jeff-bezos.avif",
     "etc/1 Test Face Comersion/bezos-1.avif",
     "etc/1 Test Face Comersion/bezos-final-0404-jpg.avif",

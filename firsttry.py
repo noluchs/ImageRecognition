@@ -7,18 +7,18 @@ KEY_TARGET = "noah-3.jpg"
 def lambda_handler(event, context):
     source_face, matches = compare_faces(BUCKET, KEY_SOURCE, BUCKET, KEY_TARGET)
 
-    # Print information about the source face, if available
+    # Print über das zu vergelichende Bild ob ein Gesich gefunden
     if source_face:
         print("Source Face ({Confidence}%)".format(**source_face))
     else:
         print("No source face found in the image.")
 
-    # Print information about each matched face, if available
+    # Print falls die Gesichter in beiden Bilder übereinstimmen
     for match in matches:
         face = match.get('Face', {})
         similarity = match.get('Similarity', 0)
         print("Target Face ({Confidence}%)".format(**face))
-        print("  Similarity : {}%".format(similarity))
+        print("  Übereinstimmung der Gesichter : {}%".format(similarity))
 
 def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="us-east-1"):
     rekognition = boto3.client("rekognition", region)
@@ -38,7 +38,6 @@ def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="
         SimilarityThreshold=threshold,
     )
 
-    # Check if 'SourceImageFace' and 'FaceMatches' keys exist in the response
     source_face = response.get('SourceImageFace', {})
     matches = response.get('FaceMatches', [])
 

@@ -36,18 +36,18 @@ KEY_TARGET = "noah-3.jpg"
 def lambda_handler(event, context):
     source_face, matches = compare_faces(BUCKET, KEY_SOURCE, BUCKET, KEY_TARGET)
 
-    # Print information about the source face, if available
+    # Print über das zu vergelichende Bild ob ein Gesich gefunden
     if source_face:
         print("Source Face ({Confidence}%)".format(**source_face))
     else:
         print("No source face found in the image.")
 
-    # Print information about each matched face, if available
+    # Print falls die Gesichter in beiden Bilder übereinstimmen
     for match in matches:
         face = match.get('Face', {})
         similarity = match.get('Similarity', 0)
         print("Target Face ({Confidence}%)".format(**face))
-        print("  Similarity : {}%".format(similarity))
+        print("  Übereinstimmung der Gesichter : {}%".format(similarity))
 
 def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="us-east-1"):
     rekognition = boto3.client("rekognition", region)
@@ -67,11 +67,11 @@ def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="
         SimilarityThreshold=threshold,
     )
 
-    # Check if 'SourceImageFace' and 'FaceMatches' keys exist in the response
     source_face = response.get('SourceImageFace', {})
     matches = response.get('FaceMatches', [])
 
     return source_face, matches
+
 
 ```
 
@@ -80,20 +80,13 @@ def compare_faces(bucket, key, bucket_target, key_target, threshold=80, region="
 Das Ergebnis des Tests zeigt, dass Amazon Rekognition zu 99% sicher ist, dass auf den Bildern dieselbe Person abgebildet ist. Dies zeigt die hohe Genauigkeit und Zuverlässigkeit von Amazon Rekognition bei der Gesichtserkennung.
 
 ```
-Test Event Name
-test
-
-Response
-null
-
-Function Logs
-START RequestId: af8f169a-6560-49d7-8128-8c1d52933494 Version: $LATEST
+START RequestId: 115e1242-bc90-4d76-aed8-0c1c956b10b3 Version: $LATEST
 Source Face (99.99951171875%)
 Target Face (99.99942779541016%)
-Similarity : 99.98184204101562%
-END RequestId: af8f169a-6560-49d7-8128-8c1d52933494
-REPORT RequestId: af8f169a-6560-49d7-8128-8c1d52933494	Duration: 2144.19 ms	Billed Duration: 2145 ms	Memory Size: 128 MB	Max Memory Used: 75 MB	Init Duration: 319.19 ms
-
-Request ID
-af8f169a-6560-49d7-8128-8c1d52933494
+Übereinstimmung der Gesichter : 99.98184204101562%
+END RequestId: 115e1242-bc90-4d76-aed8-0c1c956b10b3
+REPORT RequestId: 115e1242-bc90-4d76-aed8-0c1c956b10b3	Duration: 1948.24 ms	Billed Duration: 1949 ms	Memory Size: 128 MB	Max Memory Used: 75 MB	Init Duration: 265.47 ms
 ```
+
+
+![](attachments/Pasted%20image%2020231127144521.png)
