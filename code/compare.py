@@ -1,50 +1,25 @@
 import boto3
+import botocore
 
 def lambda_handler(event, context):
-    # S3-Bucket und Dateiname des Eingangsbildes
-    input_bucket = 'dein-input-bucket'
-    input_image = 'dein-input-bild.jpg'
-    
-    # S3-Bucket für die Galerie
-    gallery_bucket = 'dein-gallery-bucket'
-    
-    # Amazon Rekognition Client erstellen
+    s3_resource = boto3.resource('s3')
+    s3_client = boto3.client('s3')
     rekognition = boto3.client('rekognition')
-    
-    # Gesichtserkennung auf dem Eingangsbild durchführen
-    response = rekognition.detect_faces(
-        Image={
-            'S3Object': {
-                'Bucket': input_bucket,
-                'Name': input_image
-            }
-        },
-        Attributes=['DEFAULT']
-    )
-    
-    # Liste der erkannten Gesichter
-    faces = response['FaceDetails']
-    
-    # Gesichter in der Galerie vergleichen und ähnliche Gesichter anzeigen
-    for face in faces:
-        face_id = face['FaceId']
-        
-        # Vergleich der Gesichter in der Galerie
-        response = rekognition.search_faces_by_image(
-            CollectionId='deine-galerie',
-            Image={
-                'S3Object': {
-                    'Bucket': gallery_bucket,
-                    'Name': input_image
-                }
-            },
-            FaceMatchThreshold=80,
-            MaxFaces=10
-        )
-        
-        # Ähnliche Gesichter anzeigen
-        for match in response['FaceMatches']:
-            similar_face = match['Face']
-            similarity = match['Similarity']
+
+    bucket1 = s3_resource.Bucket('imagerekognition-s3-test')
+    bucket2 = s3_resource.Bucket('imagerekognition-s3-test-2')
+
+    for file1 in bucket1.objects.all():
+        s3_client.download_file('imagerekognition-s3-test', file1.key, '/tmp/local-file1.jpg')
+        for file2 in bucket2.objects.all():
+            s3_client.download_file('imagerekognition-s3-test-2', file2.key, '/tmp/local-file2.jpg')
             
-            print(f"Ähnliches Gesicht gefunden: FaceId={similar_face['FaceId']}, Ähnlichkeit={similarity}%")
+            with open('/tmp/local-file1.jpg', 'rb') as image1, open('/tmp/local-file2.jpg', 'rb') as image2:
+                response = rekognition.compare_faces(
+                    SourceImage={'Bytes': image1.read()},
+                    TargetImage={'Bytes': image2.read()},
+                    SimilarityThreshold=99
+                )
+                
+                if response['FaceMatches']:
+                    print(f"Die Bilder {file1.key} und {file2.key} stimmen zu mehr als 99% überein.")
