@@ -6,22 +6,18 @@ kanban-plugin: basic
 
 ## Pool
 
-- [ ] Website
 - [ ] Presentation erstellen
 - [ ] Abschluss Sprint 3
-- [ ] Abschluss Sprint 2
 - [ ] GitLab Pipline Einrichten
-- [ ] Schnitstelle Upload Bilder S3
 - [ ] Testen
 - [ ] Ausgabe in Gallery
 
 
 ## Impletation
 
-- [ ] AWS Lamda einrichten
-- [ ] Aufbau S3
 - [ ] Dokumentieren
-- [ ] AWS Rekognition eine Gallery vergelichen
+- [ ] Website
+- [ ] Schnitstelle Upload Bilder S3
 
 
 ## Erledigt
@@ -29,6 +25,10 @@ kanban-plugin: basic
 - [ ] AWS Rekoginiton erster Test @{2023-11-26}
 - [ ] Dokumentation Struktur aufbauen
 - [ ] Abschluss Sprint 1
+- [ ] AWS Lamda einrichten
+- [ ] Aufbau S3
+- [ ] AWS Rekognition eine Gallery vergelichen
+- [ ] Abschluss Sprint 2
 
 
 
