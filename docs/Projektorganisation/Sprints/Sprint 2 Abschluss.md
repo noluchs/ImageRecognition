@@ -3,7 +3,7 @@
 ## Fazit vom Sprint 2?
 Im zweiten Sprint stand die Fertigstellung des Python-Skripts im Vordergrund, das Bilder mit einer Galerie vergleicht und alle passenden ausgibt. Trotz einiger Herausforderungen, insbesondere mit den Limitierungen von AWS, konnte dieses Ziel erreicht werden.
 
-Die größte Herausforderung war die Timeout-Einstellung in AWS Lambda. AWS Lambda-Funktionen haben standardmäßig eine Timeout-Zeit von 3 Sekunden. Wenn eine Funktion länger läuft, erhält man eine Timeout-Fehlermeldung. Es war notwendig, die Timeout-Zeit für die Funktion in der AWS Management Console zu erhöhen, um das Skript erfolgreich ausführen zu können.
+Die größte Herausforderung war das Problem mit der Timeout-Einstellung in AWS Lambda. AWS Lambda-Funktionen haben standardmäßig eine Timeout-Zeit von 3 Sekunden. Wenn eine Funktion länger läuft, erhält man eine Timeout-Fehlermeldung. Es war notwendig, die Timeout-Zeit für die Funktion in der AWS Management Console zu erhöhen, um das Skript erfolgreich ausführen zu können.
 
 Leider konnte aufgrund dieser Herausforderungen das ursprüngliche Ziel, die Webanwendung zu erstellen, nicht erreicht werden. Dies wird in den nächsten Sprints angegangen.
 
