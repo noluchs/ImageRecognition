@@ -23,3 +23,4 @@ def lambda_handler(event, context):
                 
                 if response['FaceMatches']:
                     print(f"Die Bilder {file1.key} und {file2.key} stimmen zu mehr als 99% überein.")
+                    

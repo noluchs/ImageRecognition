@@ -20,11 +20,20 @@ Lamda Github einrichten
 https://blog.jakoblind.no/aws-lambda-github-actions/
 
 
-## Firsttest
+## Function Compare
 [Blurring faces in images using Amazon S3, Amazon Rekognition and AWS Lambda | by Banavalikar | Medium](https://medium.com/@banavalikar/blurring-faces-in-images-using-amazon-s3-amazon-rekognition-and-aws-lambda-a5d6899135c7) 
 
 [Image Analysis using AWS Rekognition via Lambda Function | HackerNoon](https://hackernoon.com/image-analysis-using-aws-rekognition-via-lambda-function-hvq3uvy) 
 
+<<<<<<< Updated upstream
 
 
 
+=======
+## Website Python Flask
+https://www.geeksforgeeks.org/how-to-upload-file-in-python-flask/
+https://medium.com/analytics-vidhya/deploy-restful-api-with-flask-on-aws-12575c808b4
+
+
+https://www.youtube.com/watch?v=FsXyfxLDDIs&t=4s
+>>>>>>> Stashed changes

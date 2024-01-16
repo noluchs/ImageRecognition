@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anhang/Quellen.md"
+                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
-    "Anhang/Recherche.md",
     "Anhang/Quellen.md",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
+    "docs/Aufbau Umgebung/Website.md",
+    "docs/Aufbau Umgebung/Github Actions.md",
+    "code/website/index.html",
+    "code/website/app.py",
+    "code/website",
+    "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
     "README.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231218145222.png",
-    "docs/Aufbau Umgebung/Github Actions.md",
-    "docs/Aufbau Umgebung/Website.md",
-    "code/website/app.py",
-    "code/website/index.html",
-    "code/website",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
     "docs/Aufbau Umgebung/attachments/Pasted image 20231127144521.png",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231127141432.png",
