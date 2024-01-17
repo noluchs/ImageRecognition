@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "Anhang/Quellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "Anhang/Quellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+                "file": "Anhang/Quellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md"
+                "file": "Anhang/Quellen.md"
               }
             }
           }
@@ -161,15 +161,27 @@
   },
   "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
+    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.woff2",
+    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.woff",
+    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.ttf",
+    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.svg",
+    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.eot",
+    "code/rekognition-demo-master/static/js/jquery.min.js",
+    "code/rekognition-demo-master/static/js/bootstrap.min.js",
+    "code/rekognition-demo-master/static/css/navbar.css",
+    "code/rekognition-demo-master/static/css/bootstrap.min.css",
+    "code/rekognition-demo-master/templates/main.html",
+    "code/rekognition-demo-master/static/js",
+    "code/rekognition-demo-master/static/fonts",
+    "code/rekognition-demo-master/Rekognizion Demo.gif",
+    "code/rekognition-demo-master/Solution Diagram.PNG",
+    "code/rekognition-demo-master/README.md",
+    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "Anhang/Quellen.md",
     "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
     "docs/Aufbau Umgebung/Website.md",
     "docs/Aufbau Umgebung/Github Actions.md",
-    "code/website/index.html",
-    "code/website/app.py",
-    "code/website",
     "Anhang/Recherche.md",
-    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
     "README.md",
@@ -181,18 +193,8 @@
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",
-    "docs/Projektorganisation/Sprints/attachments",
     "docs/Aufbau Umgebung/attachments/Pasted image 20231124230529.png",
     "etc/1 Test Face Comersion/noah-3.jpg",
-    "etc/1 Test Face Comersion/IMG_20220809_152206_699_Original.jpg",
-    "etc/1 Test Face Comersion/noah-2.jpg",
-    "etc/1 Test Face Comersion/IMG_0333_Original.jpg",
-    "etc/1 Test Face Comersion/jeff-bezos.avif",
-    "etc/1 Test Face Comersion/bezos-1.avif",
-    "etc/1 Test Face Comersion/bezos-final-0404-jpg.avif",
-    "etc/1 Test Face Comersion",
-    "etc/untitled folder",
-    "try2.py",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Einleitung/readme.md",
