@@ -11,11 +11,9 @@
             "id": "7003a87e8677b4c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Anhang/Quellen.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Projektorganisation/Kanban.md"
               }
             }
           },
@@ -30,8 +28,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b727a3fceeb9bafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anhang/Quellen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b6ef172f137ee26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Aufbau Umgebung/Website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anhang/Quellen.md",
+                "file": "docs/Aufbau Umgebung/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anhang/Quellen.md"
+                "file": "docs/Aufbau Umgebung/Website.md"
               }
             }
           }
@@ -159,37 +182,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7003a87e8677b4c4",
+  "active": "2b6ef172f137ee26",
   "lastOpenFiles": [
-    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.woff2",
-    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.woff",
-    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.ttf",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20240117154044.png",
+    "README.md",
+    "docs/Projektorganisation/Kanban.md",
+    "Anhang/Quellen.md",
+    "code/Upload S3 Flask/upload.py",
+    "code/Upload S3 Flask/templates",
+    "code/Upload S3 Flask",
+    "code/website/Upload S3 Flask",
+    "code/website/Upload S3",
+    "code/website/Upload 3",
+    "docs/Aufbau Umgebung/Website.md",
+    "code/website/__pycache__/app.cpython-312.pyc",
+    "code/website/__pycache__/test.cpython-312.pyc",
+    "code/website/__pycache__",
+    "code/website/test.py",
+    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.svg",
-    "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.eot",
-    "code/rekognition-demo-master/static/js/jquery.min.js",
-    "code/rekognition-demo-master/static/js/bootstrap.min.js",
-    "code/rekognition-demo-master/static/css/navbar.css",
-    "code/rekognition-demo-master/static/css/bootstrap.min.css",
-    "code/rekognition-demo-master/templates/main.html",
-    "code/rekognition-demo-master/static/js",
-    "code/rekognition-demo-master/static/fonts",
     "code/rekognition-demo-master/Rekognizion Demo.gif",
     "code/rekognition-demo-master/Solution Diagram.PNG",
     "code/rekognition-demo-master/README.md",
-    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
-    "Anhang/Quellen.md",
     "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
-    "docs/Aufbau Umgebung/Website.md",
     "docs/Aufbau Umgebung/Github Actions.md",
     "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
-    "README.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231218145222.png",
     "docs/Aufbau Umgebung/attachments/Pasted image 20231127144521.png",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231127141432.png",
-    "docs/Projektorganisation/Kanban.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",

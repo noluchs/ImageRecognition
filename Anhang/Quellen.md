@@ -25,15 +25,12 @@ https://blog.jakoblind.no/aws-lambda-github-actions/
 
 [Image Analysis using AWS Rekognition via Lambda Function | HackerNoon](https://hackernoon.com/image-analysis-using-aws-rekognition-via-lambda-function-hvq3uvy) 
 
-<<<<<<< Updated upstream
-
-
-
-=======
 ## Website Python Flask
 https://www.geeksforgeeks.org/how-to-upload-file-in-python-flask/
 https://medium.com/analytics-vidhya/deploy-restful-api-with-flask-on-aws-12575c808b4
 
 
-https://www.youtube.com/watch?v=FsXyfxLDDIs&t=4s
->>>>>>> Stashed changes
+
+## Upload to S3 Flask
+https://gist.github.com/leongjinqwen/9d9a2d58bf2fb923658820559a88a5ec
+https://smirnov-am.github.io/flask-s3/
