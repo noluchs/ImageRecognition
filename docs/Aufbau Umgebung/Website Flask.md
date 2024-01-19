@@ -1,7 +1,6 @@
-# Website with Flask
+# Website Upload S3 Bucket
 
 
-## Einleitung Flask
 
 ## Aufbau
 
@@ -9,9 +8,12 @@
 
 #### S3 Buckets erstellen
 #### Service User
+
 ##### Berechtigung
 ![](attachments/Pasted%20image%2020240117154044.png)
 
+##### Acces Key
+![](attachments/Pasted%20image%2020240117154421.png)
 
 
 

@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website.md",
+                "file": "docs/Aufbau Umgebung/Website Flask.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website.md",
+                "file": "docs/Aufbau Umgebung/Website Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website.md",
+                "file": "docs/Aufbau Umgebung/Website Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website.md"
+                "file": "docs/Aufbau Umgebung/Website Flask.md"
               }
             }
           }
@@ -184,22 +184,25 @@
   },
   "active": "2b6ef172f137ee26",
   "lastOpenFiles": [
+    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
+    "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
+    "docs/Aufbau Umgebung/readme.md",
+    "docs/Aufbau Umgebung/Website Flask.md",
+    "code/uploadS3/templates/ upload.html",
+    "code/uploadS3/s3-acceskey",
+    "code/uploadS3/__pycache__/upload.cpython-312.pyc",
+    "code/uploadS3/__pycache__",
+    "code/uploadS3/templates/index.html",
+    "code/uploadS3/templates",
+    "code/uploadS3/upload.py",
+    "code/uploadS3",
+    "code/Upload S3 Flask/templates/index.html",
+    "docs/Aufbau Umgebung/attachments/Pasted image 20240117154421.png",
     "docs/Aufbau Umgebung/attachments/Pasted image 20240117154044.png",
     "README.md",
     "docs/Projektorganisation/Kanban.md",
     "Anhang/Quellen.md",
     "code/Upload S3 Flask/upload.py",
-    "code/Upload S3 Flask/templates",
-    "code/Upload S3 Flask",
-    "code/website/Upload S3 Flask",
-    "code/website/Upload S3",
-    "code/website/Upload 3",
-    "docs/Aufbau Umgebung/Website.md",
-    "code/website/__pycache__/app.cpython-312.pyc",
-    "code/website/__pycache__/test.cpython-312.pyc",
-    "code/website/__pycache__",
-    "code/website/test.py",
-    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
     "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.svg",
     "code/rekognition-demo-master/Rekognizion Demo.gif",
     "code/rekognition-demo-master/Solution Diagram.PNG",
@@ -207,8 +210,6 @@
     "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
     "docs/Aufbau Umgebung/Github Actions.md",
     "Anhang/Recherche.md",
-    "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
-    "docs/Aufbau Umgebung/readme.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231218145222.png",
     "docs/Aufbau Umgebung/attachments/Pasted image 20231127144521.png",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
@@ -216,8 +217,6 @@
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231124230529.png",
-    "etc/1 Test Face Comersion/noah-3.jpg",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Einleitung/readme.md",
