@@ -1,10 +1,6 @@
 import os
-from flask import Flask
-from werkzeug.utils import secure_filename
+from flask import Flask, request
 import boto3
-from dotenv import load_dotenv
-
-load_dotenv("s3-acceskey.env")  # Name Ihrer Umgebungsvariablendatei
 
 
 app = Flask(__name__)
@@ -25,10 +21,3 @@ def upload_file():
 if __name__ == '__main__':
     app.run(debug=True)
 
-
-
-# Debuging Linux wwith https://docs.linuxfabrik.ch/base/system/strace.html -E -oben
-    
-# Neue ENV Erstellen mit Security Key
-    
-# from flask import Flask request, render_template
