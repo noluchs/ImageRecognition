@@ -11,9 +11,11 @@
             "id": "7003a87e8677b4c4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "docs/Projektorganisation/Kanban.md"
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -30,7 +32,7 @@
             }
           },
           {
-            "id": "b727a3fceeb9bafa",
+            "id": "2b6ef172f137ee26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b6ef172f137ee26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Aufbau Umgebung/Website Flask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website Flask.md",
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website Flask.md",
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Website Flask.md"
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md"
               }
             }
           }
@@ -182,44 +171,47 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2b6ef172f137ee26",
+  "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
-    "code/uploadS3/templates/index.html",
-    "code/uploadS3/templates/ upload copy.html",
-    "code/uploadS3/s3-acceskey.env",
-    "docs/Aufbau Umgebung/AWS  Rekognition Gallery.md",
-    "docs/Aufbau Umgebung/AWS Rekognition Ersterversuch.md",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122221001.png",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122214416.png",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213345.png",
+    "code/uploadS3/Archive.zip",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213141.png",
+    "docs/Projektorganisation/Kanban.md",
+    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+    "Anhang/Quellen.md",
+    "Anhang/Recherche.md",
+    "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
+    "code/lamda/firsttry.py",
+    "code/lamda/compare.py",
+    "code/lamda",
+    "code/lamda-flask/templates/index.html",
+    "code/lamda-flask/templates",
+    "code/lamda-flask/s3-acceskey.env",
+    "code/lamda-flask/app.py",
+    "code/lamda-flask",
+    "code/lamda/app.py",
+    "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122204945.png",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122204909.png",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122204847.png",
+    "README.md",
+    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
+    "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+    "docs/Aufbau Umgebung/Flask/readme.md",
+    "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
+    "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
-    "docs/Aufbau Umgebung/Website Flask.md",
-    "code/uploadS3/templates/ upload.html",
-    "code/uploadS3/s3-acceskey",
-    "code/uploadS3/__pycache__/upload.cpython-312.pyc",
-    "code/uploadS3/__pycache__",
-    "code/uploadS3/templates",
-    "code/uploadS3/upload.py",
-    "code/uploadS3",
-    "code/Upload S3 Flask/templates/index.html",
     "docs/Aufbau Umgebung/attachments/Pasted image 20240117154421.png",
     "docs/Aufbau Umgebung/attachments/Pasted image 20240117154044.png",
-    "README.md",
-    "docs/Projektorganisation/Kanban.md",
-    "Anhang/Quellen.md",
     "code/rekognition-demo-master/static/fonts/glyphicons-halflings-regular.svg",
     "code/rekognition-demo-master/Rekognizion Demo.gif",
-    "code/rekognition-demo-master/Solution Diagram.PNG",
     "code/rekognition-demo-master/README.md",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20240105215504.png",
     "docs/Aufbau Umgebung/Github Actions.md",
-    "Anhang/Recherche.md",
-    "docs/Projektorganisation/Sprints/attachments/Pasted image 20231218145222.png",
-    "docs/Aufbau Umgebung/attachments/Pasted image 20231127144521.png",
-    "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
-    "docs/Projektorganisation/Sprints/attachments/Pasted image 20231127141432.png",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
-    "docs/Projektorganisation/Sprints/attachments/Pasted image 20231124232701.png",
-    "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
-    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Einleitung/readme.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md",
     "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md",

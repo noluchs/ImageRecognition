@@ -22,9 +22,10 @@ Leider konnte aufgrund dieser Herausforderungen das ursprüngliche Ziel, die Web
 Die Erfahrungen aus dem zweiten Sprint liefern wertvolle Erkenntnisse für den dritten Sprint. Es wurde deutlich, dass es wichtig ist, sich mit den Limitierungen der verwendeten Technologien auseinanderzusetzen und diese bei der Planung zu berücksichtigen. Darüber hinaus wurde erkannt, dass es notwendig ist, genügend Zeit für unvorhergesehene Herausforderungen einzuplanen.
 
 
-## Kritische Würdigung des Sprint-Reviews**
+## Kritische Würdigung des Sprint-Reviews
 
-Die Effektivität des Feedbacks war konstruktiv und umsetzbar. Die Kommunikation und das Engagement waren angemessen, alle relevanten Parteien waren beteiligt und informiert. Es wurden Lernpunkte für zukünftige Sprints identifiziert, insbesondere im Umgang mit technischen Herausforderungen und der Notwendigkeit einer flexiblen Planung. Der Sprint-Abschluss trug zum Fortschritt des Gesamtprojekts bei, obwohl nicht alle gesetzten Ziele erreicht wurden. Es gibt Bereiche für Verbesserungen, um die Effizienz und Wirksamkeit zukünftiger Sprints zu steigern.
+Die Effektivität des Feedbacks war konstruktiv und umsetzbar. Die Kommunikation und das Engagement waren angemessen, alle relevanten Parteien waren beteiligt und informiert. Es wurden Lernpunkte für zukünftige Sprints identifiziert, insbesondere im Umgang mit technischen Herausforderungen und der Notwendigkeit einer flexiblen Planung. Der Sprint-Abschluss trug zum Fortschritt des Gesamtprojekts bei, obwohl nicht alle gesetzten Ziele erreicht wurden. 
+
 
 Insgesamt war der zweite Sprint trotz einiger Herausforderungen erfolgreich und lieferte wertvolle Erkenntnisse für die zukünftige Projektarbeit. Ich freue mich auf den nächsten Sprint und die weiteren Herausforderungen, die es zu meistern gilt.
 
