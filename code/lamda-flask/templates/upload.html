@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2 class="my-3">Upload File</h2>
+  <form id="upload-form" action="/compare" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+      <label>Select image to upload:</label>
+      <input type="file" name="file" id="file" class="form-control-file" onchange="previewFile()">
+    </div>
+    <img id="preview" src="" height="200" alt="Image preview..." class="img-thumbnail my-3">
+    <input type="submit" value="Upload Image" name="submit" class="btn btn-primary">
+  </form>
+
+  <div class="progress my-3">
+    <div id="progress-bar" class="progress-bar" style="width:0%"></div>
+  </div>
+</div>
+
+<script>
+function previewFile() {
+  const preview = document.querySelector('#preview');
+  const file = document.querySelector('#file').files[0];
+  const reader = new FileReader();
+
+  reader.addEventListener("load", function () {
+    preview.src = reader.result;
+  }, false);
+
+  if (file) {
+    reader.readAsDataURL(file);
+  }
+}
+
+document.getElementById('upload-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const form = document.getElementById('upload-form');
+  const xhr = new XMLHttpRequest();
+  const fd = new FormData(form);
+
+  xhr.open("POST", "/compare", true);
+  xhr.upload.onprogress = function(e) {
+    if (e.lengthComputable) {
+      const percentComplete = (e.loaded / e.total) * 100;
+      document.getElementById('progress-bar').style.width = percentComplete + '%';
+    }
+  };
+  xhr.send(fd);
+});
+</script>
+
+</body>
+</html>

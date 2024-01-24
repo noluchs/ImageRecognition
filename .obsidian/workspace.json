@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md"
+                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md"
               }
             }
           }
@@ -159,20 +159,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "183855e654b2e479",
+  "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+    "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
+    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+    "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
+    "code/lamda-flask/templates/gallery.html",
+    "code/lamda-flask/upload.py",
+    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
+    "docs/Aufbau Umgebung/Flask/readme.md",
+    "code/lamda-flask/compare.py",
+    "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
+    "Anhang/Quellen.md",
+    "Anhang/Recherche.md",
+    "code/lamda-flask/templates/index.html",
+    "code/lamda-flask/templates/result.html",
+    "code/website/imagerekognition.bsdesign",
+    "code/lamda-flask/templates/upload.html",
+    "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "README.md",
     "code/lamda-flask/application.py",
-    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124110009.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105801.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105735.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105425.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105321.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105255.png",
-    "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
-    "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "docs/Projektorganisation/Kanban.md",
     "Anhang/Sachmittel.md",
     "code/lamda-flask/Archive.zip",
@@ -180,20 +194,8 @@
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122221001.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122214416.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213345.png",
-    "code/uploadS3/Archive.zip",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213141.png",
-    "Anhang/Quellen.md",
-    "Anhang/Recherche.md",
-    "code/lamda/firsttry.py",
-    "code/lamda/compare.py",
-    "code/lamda",
-    "code/lamda-flask/templates/index.html",
-    "code/lamda-flask/templates",
-    "code/lamda-flask/s3-acceskey.env",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
-    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
-    "docs/Aufbau Umgebung/Flask/readme.md",
-    "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
     "code/rekognition-demo-master/README.md",

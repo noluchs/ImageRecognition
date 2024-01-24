@@ -39,3 +39,7 @@ https://smirnov-am.github.io/flask-s3/
 ## Github Acitons AWS Beanstalk
 https://medium.com/seamless-cloud/automated-deployment-to-aws-elastic-beanstalk-using-github-actions-888757a6eeb0
 
+
+## Flask Website Template
+
+https://github.com/app-generator/sample-flask-bootstrap
