@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv("s3-acceskey.env")
 
 # Initialisieren der Flask-Anwendung
-app = Flask(__name__)
+application = Flask(__name__)
 
 # Erstellen eines boto3-Clients für AWS S3
 s3 = boto3.client("s3",
@@ -18,7 +18,7 @@ s3 = boto3.client("s3",
 )
 
 # Definieren der Route für die Anwendung
-@app.route('/', methods=['GET', 'POST'])
+@application.route('/', methods=['GET', 'POST'])
 def upload_file():
     # Wenn die Anfragemethode POST ist
     if request.method == 'POST':
@@ -35,6 +35,7 @@ def upload_file():
 
 # Ausführen der Anwendung
 if __name__ == '__main__':
-    app.run(debug=True)
+    application.run(debug=True)
+
 
 
