@@ -16,6 +16,18 @@ Learning Besser lesen
 
 
 
+```
+File "/Users/noahluchsinger/Documents/HF Informatik/Repo/ImageRecognition/code/lamda-flask/.venv/lib/python3.11/site-packages/botocore/client.py", line 553, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/noahluchsinger/Documents/HF Informatik/Repo/ImageRecognition/code/lamda-flask/.venv/lib/python3.11/site-packages/botocore/client.py", line 1009, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (InvalidToken) when calling the ListObjects operation: The provided token is malformed or otherwise invalid.
+```
+
+Probleme mit Upload mit Boto3 mit Berechtigung
+
+
 
 
 

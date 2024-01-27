@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/Flask Funktion.md"
+                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md"
               }
             }
           }
@@ -161,26 +161,29 @@
   },
   "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
+    "code/lamda-flask/__pycache__/test.cpython-311-pytest-7.4.4.pyc",
+    "code/lamda-flask/test.py",
+    "code/lamda-flask/sessiontoken.py",
+    "code/lamda-flask/__pycache__/application.cpython-311.pyc",
+    "code/lamda-flask/__pycache__",
+    "code/lamda-flask/application.old.py",
+    "code/lamda-flask/templates/500.html",
+    "Anhang/Quellen.md",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
+    "code/lamda-flask/testboto3.py",
+    "code/lamda-flask/templates/testboto3.py",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
     "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
     "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
     "code/lamda-flask/templates/gallery.html",
     "code/lamda-flask/upload.py",
     "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/readme.md",
-    "code/lamda-flask/compare.py",
     "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
-    "Anhang/Quellen.md",
     "Anhang/Recherche.md",
-    "code/lamda-flask/templates/index.html",
-    "code/lamda-flask/templates/result.html",
-    "code/website/imagerekognition.bsdesign",
-    "code/lamda-flask/templates/upload.html",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "README.md",
-    "code/lamda-flask/application.py",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124110009.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105801.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105735.png",
@@ -189,12 +192,9 @@
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105255.png",
     "docs/Projektorganisation/Kanban.md",
     "Anhang/Sachmittel.md",
-    "code/lamda-flask/Archive.zip",
-    "code/lamda-flask/requirements.txt",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122221001.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122214416.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213345.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213141.png",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
     "docs/Aufbau Umgebung/readme.md",
