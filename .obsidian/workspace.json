@@ -161,6 +161,7 @@
   },
   "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
+    "code/lamda-flask/application.debug.py",
     "code/lamda-flask/application.funktionioert.py",
     "code/lamda-flask/templates/loading.html",
     "code/lamda-flask/qodana.yaml",
@@ -172,7 +173,6 @@
     "code/lamda-flask/sessiontoken.py",
     "code/lamda-flask/__pycache__/application.cpython-311.pyc",
     "code/lamda-flask/__pycache__",
-    "code/lamda-flask/application.old.py",
     "Anhang/Quellen.md",
     "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
