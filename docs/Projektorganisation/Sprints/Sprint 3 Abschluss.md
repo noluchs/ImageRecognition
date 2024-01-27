@@ -14,6 +14,8 @@ Probelem mit AWS Beanstalk mit Upload per Zip über Web UI nach langem mit EB CL
 
 Learning Besser lesen
 
+Probleme mit Botocre auf ElasticBeansstalk
+
 
 
 ```

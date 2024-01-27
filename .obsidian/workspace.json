@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
+                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md"
+                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "7003a87e8677b4c4",
   "lastOpenFiles": [
+    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
     "code/lamda-flask/__pycache__/test.cpython-311-pytest-7.4.4.pyc",
     "code/lamda-flask/test.py",
     "code/lamda-flask/sessiontoken.py",
@@ -174,10 +175,8 @@
     "code/lamda-flask/testboto3.py",
     "code/lamda-flask/templates/testboto3.py",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
-    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
     "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
     "code/lamda-flask/templates/gallery.html",
-    "code/lamda-flask/upload.py",
     "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/readme.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
