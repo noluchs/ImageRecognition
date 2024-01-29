@@ -1,3 +1,3 @@
-
+*.venv
 code/uploadS3/s3-acceskey*
 *.env
