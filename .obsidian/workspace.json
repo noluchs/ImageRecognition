@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md"
+                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md"
               }
             }
           }
@@ -198,12 +198,15 @@
   },
   "active": "b504188056319608",
   "lastOpenFiles": [
-    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002334.png",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002209.png",
+    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
+    "docs/4_Presentation/ImageRekognition.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/1_Einleitung/readme.md",
     "Anhang/Quellen.md",
     "Anhang/Recherche.md",
@@ -233,15 +236,12 @@
     "code/lamda-flask/templates/assets/js",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
     "code/lamda-flask/templates/assets/img/OIG.jpeg",
-    "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180228.png",
-    "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180215.png",
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "code/rekognition-demo-master/README.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
-    "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md",
-    "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md"
+    "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md"
   ]
 }
