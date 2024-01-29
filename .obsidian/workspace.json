@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md"
               }
             }
           }
@@ -186,24 +186,27 @@
   },
   "active": "183855e654b2e479",
   "lastOpenFiles": [
-    "docs/2_Projektorganisation/Fazit.md",
+    "docs/4_Presentation",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+    "docs/3_Umsetzung/3.2_Flask/readme.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Beanstalk einrichten.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS CodePipline.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
     "README.md",
+    "docs/2_Projektorganisation/Fazit.md",
     "docs/1_Einleitung/readme.md",
     "docs/2_Projektorganisation/Projektmethode.md",
     "docs/2_Projektorganisation/Kanban.md",
-    "docs/3_Umsetzung/3.1_Lamda Function/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/readme.md",
-    "docs/3_Umsetzung/3.2_Flask/Upload S3 Bucket.md",
-    "docs/3_Umsetzung/3.2_Flask/readme.md",
-    "docs/3_Umsetzung/3.2_Flask/Flask Apllikation.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/AWS CodePipline.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/AWS Beanstalk einrichten.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201448.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201301.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195840.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195736.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments",
-    "docs/3_Umsetzung/3.1_Lamda Function/AWS Rekognition Ersterversuch.md",
     "Anhang/Sachmittel.md",
     "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "code/lamda-flask/templates/assets/js/script.min.js",
@@ -220,17 +223,14 @@
     "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180228.png",
     "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180215.png",
     "Anhang/Quellen.md",
-    "docs/3_Umsetzung/3.2_Flask/attachments/Pasted image 20240124220528.png",
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
-    "docs/3_Umsetzung/3.2_Flask/attachments/Pasted image 20240124110009.png",
     "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "code/rekognition-demo-master/README.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Gitlab Piplines.md",
-    "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md",
-    "2023-11-06.md"
+    "docs/Aufbau Umgebung/Pasted image 20231115095003.png.md"
   ]
 }
