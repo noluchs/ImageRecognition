@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/code/lamda-flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/flask" vcs="Git" />
   </component>
 </project>

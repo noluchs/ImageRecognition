@@ -1,9 +1,0 @@
-requests
-Flask
-Flask-WTF
-Pillow
-aws-xray-sdk
-flask-login
-python_jose
-mysql_connector_python
-boto3
