@@ -1,26 +1,26 @@
 # AWS  Rekognition Ersterversuch
 
 In diesem ersten Versuch wird die Interaktion zwischen Amazon Rekognition, Lambda und dem S3 Bucket getestet. Ein Python-Skript wird in Lambda ausgeführt, das zwei Bilder vergleicht und die Übereinstimmung der darauf abgebildeten Gesichter bewertet.
-![](attachments/Pasted%20image%2020231124230529.png)
+![](../attachments/Pasted%20image%2020231124230529.png)
 
 ## Aufbau
 ### Erstellung einer IAM-Rolle für Lambda
 
 Zunächst erstellen wir eine IAM-Rolle, die Zugriffsrechte auf den S3-Service und AmazonRekognitionFullAccess hat. Diese Rolle wird später für den Lambda-Service benötigt und der Lambda-Funktion zugewiesen.
-![](attachments/Pasted%20image%2020231124161910.png)
+![](../attachments/Pasted%20image%2020231124161910.png)
 ### Erstellung einer Lambda-Funktion in Python
 
 Hier erstellen wir die Lambda-Funktion mit dem Namen “imagerekognition-lambda” und weisen ihr die zuvor erstellte Berechtigungsrolle zu.
 
 
-![](attachments/Pasted%20image%2020231124162207.png)
+![](../attachments/Pasted%20image%2020231124162207.png)
 
 
 ### Erstellung eines S3-Speichers
 
 Wir erstellen einen Amazon S3-Bucket namens “imagerekognition-s3-test”, in dem die Bilder gespeichert werden. Dabei stellen wir sicher, dass sich der Bucket in derselben AWS-Region wie die Lambda-Funktion befindet.
 
-![](attachments/Pasted%20image%2020231124162422.png)
+![](../attachments/Pasted%20image%2020231124162422.png)
 
 ## Erster Test
 
@@ -89,4 +89,4 @@ REPORT RequestId: 115e1242-bc90-4d76-aed8-0c1c956b10b3	Duration: 1948.24 ms	Bill
 ```
 
 
-![](attachments/Pasted%20image%2020231127144521.png)
+![](../attachments/Pasted%20image%2020231127144521.png)

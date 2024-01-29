@@ -6,18 +6,14 @@ kanban-plugin: basic
 
 ## Pool
 
-- [ ] Presentation erstellen
-- [ ] Abschluss Sprint 3
-- [ ] GitLab Pipline Einrichten
-- [ ] Testen
-- [ ] Ausgabe in Gallery
 
 
 ## Impletation
 
 - [ ] Dokumentieren
-- [ ] Website
-- [ ] Schnitstelle Upload Bilder S3
+- [ ] GitLab Pipline Einrichten
+- [ ] Presentation erstellen
+- [ ] Abschluss Sprint 3
 
 
 ## Erledigt
@@ -29,6 +25,10 @@ kanban-plugin: basic
 - [ ] Aufbau S3
 - [ ] AWS Rekognition eine Gallery vergelichen
 - [ ] Abschluss Sprint 2
+- [ ] Website
+- [ ] Schnitstelle Upload Bilder S3
+- [ ] Testen
+- [ ] Ausgabe in Gallery
 
 
 

@@ -1,7 +1,7 @@
 # 1. Sprintabschluss
 
 ##  Fazit vom Sprint 1
-Im ersten Sprint wurde viel Zeit in den Aufbau der Projektstruktur investiert. Trotz einiger Herausforderungen, wie zum Beispiel der Notwendigkeit, einen neuen Account zu erstellen, da dieser nicht über das LearnerLab funktionierte, aufgrund der Berechtigungen, die ein Account dort hatte, und der Verlagerung der Umgebung in eine andere Region, in der Amazon Rekognition verfügbar war, verlief der Test mit Lambda, S3 und Amazon Rekognition erfolgreich. Dieser Test verglich zwei Bilder und erzielte gute Ergebnisse beim Erstversuch mit AWS Rekognition [AWS Rekognition Ersterversuch](../../Aufbau%20Umgebung/Lamda%20Function/AWS%20Rekognition%20Ersterversuch.md). Leider hatte ich keine Zeit, um ein Bild mit einer Sammlung von Bildern zu vergleichen und alle passenden darzustellen.
+Im ersten Sprint wurde viel Zeit in den Aufbau der Projektstruktur investiert. Trotz einiger Herausforderungen, wie zum Beispiel der Notwendigkeit, einen neuen Account zu erstellen, da dieser nicht über das LearnerLab funktionierte, aufgrund der Berechtigungen, die ein Account dort hatte, und der Verlagerung der Umgebung in eine andere Region, in der Amazon Rekognition verfügbar war, verlief der Test mit Lambda, S3 und Amazon Rekognition erfolgreich. Dieser Test verglich zwei Bilder und erzielte gute Ergebnisse beim Erstversuch mit AWS Rekognition [AWS Rekognition Ersterversuch](../../3_Umsetzung/3.1_Lamda%20Function/AWS%20Rekognition%20Ersterversuch.md). Leider hatte ich keine Zeit, um ein Bild mit einer Sammlung von Bildern zu vergleichen und alle passenden darzustellen.
 
 
 | Dokumentation | Python | AWS Lamda | Website | Github Action |  
