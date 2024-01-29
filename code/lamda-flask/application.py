@@ -4,18 +4,18 @@ import boto3
 import os
 from dotenv import load_dotenv
 
-load_dotenv("s3-acceskey.env")
+load_dotenv("aws.env")
 
 application = Flask(__name__)
 
 s3 = boto3.client("s3",
-    region_name="us-east-1",
+    region_name=os.environ.get("REGION"),
     aws_access_key_id=os.environ.get("S3_KEY"),
     aws_secret_access_key=os.environ.get("S3_SECRET"),
 )
 
 rekognition = boto3.client('rekognition',
-    region_name="us-east-1",
+    region_name=os.environ.get("REGION"),
     aws_access_key_id=os.environ.get("S3_KEY"),
     aws_secret_access_key=os.environ.get("S3_SECRET"),
 )
@@ -25,19 +25,19 @@ def upload_file():
     if request.method == 'POST':
         file = request.files['file']
         filename = secure_filename(file.filename)
-        s3.upload_fileobj(file, 'imagerekognition-s3-upload', filename)
+        s3.upload_fileobj(file, os.environ.get("UPLOAD_BUCKET"), filename)
         matches = compare_faces(filename)
         return render_template('gallery.html', matches=matches)
     return render_template('upload.html')
 
 def compare_faces(uploaded_file_path):
-    bucket = 'imagerekognition-s3-compare'
+    bucket = os.environ.get("COMPARE_BUCKET")
     matches = []
     for obj in s3.list_objects(Bucket=bucket)['Contents']:
         response = rekognition.compare_faces(
             SourceImage={
                 'S3Object': {
-                    'Bucket': 'imagerekognition-s3-upload',
+                    'Bucket': os.environ.get("UPLOAD_BUCKET"),
                     'Name': uploaded_file_path
                 }
             },

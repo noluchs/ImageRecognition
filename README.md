@@ -6,19 +6,30 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 
 
 ## Inhaltsverzeichnis
-### Aufbau Umgebung
+### Aufbau Umgebung Lamda
 [AWS Rekognition Ersterversuch](docs/Aufbau%20Umgebung/Lamda%20Function/AWS%20Rekognition%20Ersterversuch.md)
 [AWS  Rekognition Gallery](docs/Aufbau%20Umgebung/Lamda%20Function/AWS%20%20Rekognition%20Gallery.md)
+
+### [Flask](docs/Aufbau%20Umgebung/Flask/readme.md)
+[Upload S3 Bucket](docs/Aufbau%20Umgebung/Flask/Upload%20S3%20Bucket.md)
+[Flask Applikation](docs/Aufbau%20Umgebung/Flask/Flask%20Apllikation.md)
+
+### AWS Beanstalk
+[AWS Beanstalk einrichten](docs/Aufbau%20Umgebung/AWS%20Beanstalk/AWS%20Beanstalk%20einrichten.md)
+[Github Actions](docs/Aufbau%20Umgebung/AWS%20Beanstalk/Github%20Actions.md)
+
+
+
 ### Projektmanagement
 #### Sprint 
 [Sprint 1 Abschluss](docs/Projektorganisation/Sprints/Sprint%201%20Abschluss.md)
 [Sprint 2 Abschluss](docs/Projektorganisation/Sprints/Sprint%202%20Abschluss.md)
-
+[Sprint 3 Abschluss](docs/Projektorganisation/Sprints/Sprint%203%20Abschluss.md)
 
 ## Literaturverzeichnis
-
-
-
+[Quellen](Anhang/Quellen.md)
+[Recherche](Anhang/Recherche.md)
+[Sachmittel](Anhang/Sachmittel.md)
 ## Einleitung
 ### Problemstellung
 
@@ -46,17 +57,7 @@ Der grobe Terminplan für dieses Projekt ist in drei Sprints unterteilt:
 
 ·       **Sprint 3: Einrichtung von GitHub Actions zur Automatisierung des Test-, Build- und Deployment-Prozesses.** Dies beinhaltet das Schreiben von Tests für den Code, das Einrichten des Build-Prozesses in GitHub Actions und das Konfigurieren des Deployments auf AWS Lambda. Abschließende Dokumentation des gesamten Projekts wird erstellt und eine Präsentation zur Vorstellung des Projekts wird vorbereitet.
 
-### Sachmittel
 
-Die benötigten Sachmittel für dieses Projekt sind:
-
-·       Ein Computer mit Internetzugang.
-
-·       Eine Python-Entwicklungsumgebung.
-
-·       Zugang zu AWS.
-
-·       Ein GitHub-Konto für die Verwendung von GitHub Actions.
 
 ### Vorgaben, Methoden und Werkzeuge
 

@@ -1,0 +1,53 @@
+# Dokumentation für die Bilderkennungsanwendung
+
+Diese Anwendung ist eine auf Flask basierende Webanwendung, die es Benutzern ermöglicht, Bilder hochzuladen und sie mit einer Reihe von Bildern zu vergleichen, die in einem AWS S3-Bucket gespeichert sind. Der Vergleich erfolgt mit dem AWS Rekognition-Service.
+
+## Abhängigkeiten
+
+Die Anwendung erfordert die folgenden Python-Pakete:
+
+- Flask`==2.3.0
+- Werkzeug`==3.0.1
+- boto3`==1.26.109
+- python-dotenv?`==1.0.1
+
+Diese Abhängigkeiten können mit pip installiert werden, indem Sie `pip install -r requirements.txt` ausführen.
+
+## Umgebungsvariablen
+
+Die Anwendung erfordert, dass die folgenden Umgebungsvariablen gesetzt sind:
+
+- `REGION`: Die AWS-Region, in der Ihre S3-Buckets und der Rekognition-Service befinden.
+- `S3_KEY`: Ihr AWS-Zugangsschlüssel.
+- `S3_SECRET`: Ihr AWS-geheimer Zugangsschlüssel.
+- `UPLOAD_BUCKET`: Der Name des S3-Buckets, in dem die hochgeladenen Bilder gespeichert werden.
+- `COMPARE_BUCKET`: Der Name des S3-Buckets, der die Bilder enthält, mit denen das hochgeladene Bild verglichen wird.
+
+Diese Umgebungsvariablen sollten in der `aws.env` Datei gesetzt werden.
+
+## Anwendung ausführen
+
+Um die Anwendung auszuführen, führen Sie den folgenden Befehl aus:
+
+```bash
+python application.py
+```
+
+Dies startet den Flask-Entwicklungsserver auf `localhost:5000`.
+
+## Anwendungsrouten
+
+Die Anwendung hat die folgenden Routen:
+
+- `/`: Dies ist die Hauptstrecke, die das Bild-Upload-Formular bedient. Wenn eine POST-Anforderung an diese Route mit einer Bilddatei gemacht wird, wird das Bild in den `UPLOAD_BUCKET` hochgeladen und mit den Bildern im `COMPARE_BUCKET` verglichen. Die Schlüssel der passenden Bilder werden dann zurückgegeben und auf der Seite 'gallery.html' angezeigt.
+
+## Funktionen
+
+Die Anwendung hat die folgenden Hauptfunktionen:
+
+- `upload_file()`: Diese Funktion behandelt den Bild-Upload- und Vergleichsprozess. Sie ist an die `/` Route gebunden.
+- `compare_faces(uploaded_file_path)`: Diese Funktion nimmt den Pfad eines hochgeladenen Bildes und vergleicht es mit den Bildern im `COMPARE_BUCKET` mit dem AWS Rekognition-Service. Sie gibt eine Liste von Schlüsseln der passenden Bilder zurück.
+
+
+
+

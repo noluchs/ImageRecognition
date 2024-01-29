@@ -20,9 +20,8 @@
 ![](attachments/Pasted%20image%2020240124105735.png)
 
 
-## Manuel Deploy first Version
 
-![](attachments/Pasted%20image%2020240124110009.png)
+
 
 ## CLI
 

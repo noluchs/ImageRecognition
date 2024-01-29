@@ -55,3 +55,12 @@ if response['FaceMatches']:
 
 print(f"Die Bilder {file1.key} und {file2.key} stimmen zu mehr als 99% überein.")
 ```
+
+
+## Test
+
+
+![](attachments/Pasted%20image%2020240128180215.png)
+
+
+![](attachments/Pasted%20image%2020240128180228.png)

@@ -1,4 +1,4 @@
-# 3. Sprintabschluss
+# 3. Sprintabschluss & Projektabschluss
 
 ## Fazit vom Sprint 3?
 
@@ -44,4 +44,7 @@ Probleme mit Upload mit Boto3 mit Berechtigung
 ## Learnings für die Projektarbeit
 
 
+
+
+## Nächste Schritte
 

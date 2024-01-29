@@ -1,7 +1,5 @@
 # Bilder in S3 Bucket hochladen
 
-Um den ersten Schritt in  Flask zu machen habe ich den ersten Teil der Applikation umgesetzt und zwar das Upload der Bilder zu dem AWS S3. 
-
 
 ## Service User
 Wir erstellen einen Service User der dazu Berechtigt ist die Bilder in die AWS S3 Storage zu laden.  Dies wir dann über einen Access Key erledigt der dann im Code aneghängt wird.

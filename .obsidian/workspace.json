@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2a9706507dda369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "721bf03a4e7cd368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anhang/Sachmittel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md"
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md"
               }
             }
           }
@@ -159,47 +184,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7003a87e8677b4c4",
+  "active": "e2a9706507dda369",
   "lastOpenFiles": [
-    "code/lamda-flask/application.debug.py",
-    "code/lamda-flask/application.funktionioert.py",
-    "code/lamda-flask/templates/loading.html",
-    "code/lamda-flask/qodana.yaml",
-    "code/lamda-flask/discover-aws-iam-resource-access.py",
-    "code/lamda-flask/application..old.1.py",
-    "docs/Aufbau Umgebung/Flask/AWS Beanstalk einrichten.md",
-    "code/lamda-flask/__pycache__/test.cpython-311-pytest-7.4.4.pyc",
-    "code/lamda-flask/test.py",
-    "code/lamda-flask/sessiontoken.py",
-    "code/lamda-flask/__pycache__/application.cpython-311.pyc",
-    "code/lamda-flask/__pycache__",
-    "Anhang/Quellen.md",
-    "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
-    "docs/Aufbau Umgebung/Flask/Flask Funktion.md",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
-    "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
-    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
-    "docs/Aufbau Umgebung/Flask/readme.md",
+    "docs/Aufbau Umgebung/AWS Beanstalk/AWS Beanstalk einrichten.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
+    "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
+    "README.md",
+    "Anhang/Sachmittel.md",
+    "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+    "docs/Aufbau Umgebung/Flask/readme.md",
+    "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
+    "docs/Aufbau Umgebung/Flask/Flask Apllikation.md",
+    "docs/Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+    "code/lamda-flask/templates/assets/js/script.min.js",
+    "code/lamda-flask/templates/assets/css/styles.min.css",
+    "code/lamda-flask/templates/assets/js/Basic-fancyBox-Gallery-myfancybox.js",
+    "code/lamda-flask/templates/assets/css/Basic-fancyBox-Gallery.css",
+    "code/lamda-flask/templates/assets/css/Lightbox-Gallery-baguetteBox.min.css",
+    "code/lamda-flask/templates/assets/js/Lightbox-Gallery.js",
+    "code/lamda-flask/templates/assets/js/Lightbox-Gallery-baguetteBox.min.js",
+    "code/lamda-flask/templates/assets/js",
+    "code/lamda-flask/templates/gallery.old.html",
+    "code/lamda-flask/templates/assets/img/logo.jpeg",
+    "code/lamda-flask/templates/gallery.oldhtml",
+    "code/lamda-flask/templates/assets/img/OIG.jpeg",
+    "docs/Aufbau Umgebung/Lamda Function/attachments/Pasted image 20240128180228.png",
+    "docs/Aufbau Umgebung/Lamda Function/attachments/Pasted image 20240128180215.png",
+    "Anhang/Quellen.md",
+    "docs/Aufbau Umgebung/readme.md",
+    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124220528.png",
+    "docs/Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
-    "README.md",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124110009.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105801.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105735.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105425.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105321.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105255.png",
     "docs/Projektorganisation/Kanban.md",
-    "Anhang/Sachmittel.md",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122221001.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122214416.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240122213345.png",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
-    "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
-    "docs/Aufbau Umgebung/readme.md",
     "code/rekognition-demo-master/README.md",
-    "docs/Aufbau Umgebung/Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",
     "docs/Einleitung/readme.md",
