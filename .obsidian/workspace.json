@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b504188056319608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1_Einleitung/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59dff5dc2daded3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md"
+                "file": "README.md"
               }
             }
           }
@@ -184,24 +208,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "183855e654b2e479",
+  "active": "59dff5dc2daded3d",
   "lastOpenFiles": [
-    "docs/4_Presentation",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
-    "docs/3_Umsetzung/3.2_Flask/readme.md",
+    "docs/1_Einleitung/readme.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Beanstalk einrichten.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS CodePipline.md",
+    "README.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+    "docs/4_Presentation",
+    "docs/3_Umsetzung/3.2_Flask/readme.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS CodePipline.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
-    "README.md",
     "docs/2_Projektorganisation/Fazit.md",
-    "docs/1_Einleitung/readme.md",
     "docs/2_Projektorganisation/Projektmethode.md",
     "docs/2_Projektorganisation/Kanban.md",
     "docs/Aufbau Umgebung/readme.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201448.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201301.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195840.png",
@@ -217,7 +241,6 @@
     "code/lamda-flask/templates/assets/js/Lightbox-Gallery.js",
     "code/lamda-flask/templates/assets/js/Lightbox-Gallery-baguetteBox.min.js",
     "code/lamda-flask/templates/assets/js",
-    "code/lamda-flask/templates/gallery.old.html",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
     "code/lamda-flask/templates/assets/img/OIG.jpeg",
     "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180228.png",
