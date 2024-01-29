@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/AWS CodePipline.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/AWS CodePipline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/AWS CodePipline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md"
+                "file": "docs/Aufbau Umgebung/AWS Beanstalk/AWS CodePipline.md"
               }
             }
           }
@@ -186,12 +186,17 @@
   },
   "active": "e2a9706507dda369",
   "lastOpenFiles": [
+    "docs/Aufbau Umgebung/AWS Beanstalk/attachments/Pasted image 20240129201448.png",
+    "docs/Aufbau Umgebung/AWS Beanstalk/attachments/Pasted image 20240129201301.png",
+    "docs/Aufbau Umgebung/AWS Beanstalk/attachments/Pasted image 20240129195840.png",
+    "docs/Aufbau Umgebung/AWS Beanstalk/attachments/Pasted image 20240129195736.png",
+    "docs/Aufbau Umgebung/AWS Beanstalk/attachments",
     "docs/Aufbau Umgebung/AWS Beanstalk/AWS Beanstalk einrichten.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS  Rekognition Gallery.md",
     "docs/Aufbau Umgebung/Lamda Function/AWS Rekognition Ersterversuch.md",
     "README.md",
     "Anhang/Sachmittel.md",
-    "docs/Aufbau Umgebung/AWS Beanstalk/Github Actions.md",
+    "docs/Aufbau Umgebung/AWS Beanstalk/AWS CodePipline.md",
     "docs/Aufbau Umgebung/Flask/readme.md",
     "docs/Aufbau Umgebung/Flask/Upload S3 Bucket.md",
     "docs/Aufbau Umgebung/Flask/Flask Apllikation.md",
@@ -206,7 +211,6 @@
     "code/lamda-flask/templates/assets/js",
     "code/lamda-flask/templates/gallery.old.html",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
-    "code/lamda-flask/templates/gallery.oldhtml",
     "code/lamda-flask/templates/assets/img/OIG.jpeg",
     "docs/Aufbau Umgebung/Lamda Function/attachments/Pasted image 20240128180228.png",
     "docs/Aufbau Umgebung/Lamda Function/attachments/Pasted image 20240128180215.png",
@@ -218,9 +222,6 @@
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124110009.png",
     "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105801.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105735.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105425.png",
-    "docs/Aufbau Umgebung/Flask/attachments/Pasted image 20240124105321.png",
     "docs/Projektorganisation/Kanban.md",
     "docs/Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "code/rekognition-demo-master/README.md",

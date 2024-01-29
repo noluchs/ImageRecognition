@@ -16,7 +16,7 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 
 ### AWS Beanstalk
 [AWS Beanstalk einrichten](docs/Aufbau%20Umgebung/AWS%20Beanstalk/AWS%20Beanstalk%20einrichten.md)
-[Github Actions](docs/Aufbau%20Umgebung/AWS%20Beanstalk/Github%20Actions.md)
+[AWS CodePipline](docs/Aufbau%20Umgebung/AWS%20Beanstalk/AWS%20CodePipline.md)
 
 
 
