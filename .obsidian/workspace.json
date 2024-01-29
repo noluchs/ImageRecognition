@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Einleitung/readme.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Anhang/Quellen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 746.5
   },
   "right": {
     "id": "316786353fe8543c",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md"
               }
             }
           }
@@ -208,18 +208,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "59dff5dc2daded3d",
+  "active": "b504188056319608",
   "lastOpenFiles": [
+    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
     "docs/1_Einleitung/readme.md",
+    "Anhang/Quellen.md",
+    "Anhang/Recherche.md",
     "README.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Beanstalk einrichten.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS CodePipline.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/4_Presentation",
     "docs/3_Umsetzung/3.2_Flask/readme.md",
-    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
-    "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
     "docs/2_Projektorganisation/Fazit.md",
@@ -245,9 +247,7 @@
     "code/lamda-flask/templates/assets/img/OIG.jpeg",
     "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180228.png",
     "docs/3_Umsetzung/3.1_Lamda Function/attachments/Pasted image 20240128180215.png",
-    "Anhang/Quellen.md",
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
-    "Anhang/Recherche.md",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "code/rekognition-demo-master/README.md",
