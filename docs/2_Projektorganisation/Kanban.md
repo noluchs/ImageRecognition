@@ -10,10 +10,6 @@ kanban-plugin: basic
 
 ## Impletation
 
-- [ ] Dokumentieren
-- [ ] GitLab Pipline Einrichten
-- [ ] Presentation erstellen
-- [ ] Abschluss Sprint 3
 
 
 ## Erledigt
@@ -29,6 +25,11 @@ kanban-plugin: basic
 - [ ] Schnitstelle Upload Bilder S3
 - [ ] Testen
 - [ ] Ausgabe in Gallery
+- [ ] Dokumentieren
+- [ ] GitLab Pipline Einrichten
+- [ ] AWS Elastic Beanstalk
+- [ ] Presentation erstellen
+- [ ] Abschluss Sprint 3
 
 
 

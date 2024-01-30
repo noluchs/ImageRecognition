@@ -1,50 +1,23 @@
-# 3. Sprintabschluss & Projektabschluss
+#   Sprint 3 Abschluss
 
-## Fazit vom Sprint 3?
+Der dritte und letzte Sprint des Projekts brachte einige große Herausforderungen mit sich, vor allem in Bezug auf das Rendering der Website und die Darstellung der Ergebnisse der Lambda-Funktion. Ursprünglich war geplant, Lambda zu verwenden, aber die Realität zwang mich, meine Strategie zu überdenken und mich für Flask zu entscheiden, ein Python-Framework für das Rendering von Webseiten. Diese Entscheidung brachte unerwartete Schwierigkeiten mit sich.
 
+Die Webseite konnte nicht erfolgreich aus dem Template-Verzeichnis gerendert werden und die eingeschränkten Debugging-Möglichkeiten von Flask führten zu einem hohen Zeitaufwand bei der Fehlersuche. Das Hosting wurde schließlich über Elastic Beanstalk realisiert, was jedoch aufgrund von Berechtigungsproblemen und Schwierigkeiten beim Upload der Applikation mit den spezifischen Anforderungen von Elastic Beanstalk verbunden war. Diese Herausforderungen konnten kurz vor der Fertigstellung gemeistert werden.
 
-Wechsle von Lamda zu Flask mit AWS Elastic Beanstalk
-Probleme mit Flask mit den Templates
-
-Probleme mit AWS Beanstalk beim aufsetzen der Umgebung im Feetier
-
-Probleme mit AWS Beanstalk da keine Rechte für EC2 Instanz erstellen musste eine Berechtigungsgruppe dafür erstellen
-
-Probelem mit AWS Beanstalk mit Upload per Zip über Web UI nach langem mit EB CLI geschaft
-
-Learning Besser lesen
-
-Probleme mit Botocre auf ElasticBeansstalk
-
-
-
-```
-File "/Users/noahluchsinger/Documents/HF Informatik/Repo/ImageRecognition/code/lamda-flask/.venv/lib/python3.11/site-packages/botocore/client.py", line 553, in _api_call
-    return self._make_api_call(operation_name, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Users/noahluchsinger/Documents/HF Informatik/Repo/ImageRecognition/code/lamda-flask/.venv/lib/python3.11/site-packages/botocore/client.py", line 1009, in _make_api_call
-    raise error_class(parsed_response, operation_name)
-botocore.exceptions.ClientError: An error occurred (InvalidToken) when calling the ListObjects operation: The provided token is malformed or otherwise invalid.
-```
-
-Probleme mit Upload mit Boto3 mit Berechtigung
-
-
-
-
+Zusätzlich war das Design einer ansprechenden Webseite für den Dienst eine weitere Anforderung. Die Einrichtung des Deployments erfolgte über AWS Pipeline auf einem separaten Git, da aus Zeitgründen auf eine detaillierte Auseinandersetzung mit Github Actions verzichtet wurde.
 
 ### Status Prozentual
 
-| Dokumentation | Python | AWS Lamda | Website | Github Action |  
-| - | :- | :-: | :-: | -: |  
-| 10 % | 20 % | 10% | 0 % | 0% |
+|Dokumentation|Python|AWS Lambda|Website|Github Action|
+|---|---|---|---|---|
+|100 %|100 %|100%|100 %|100 %|
 
 ### Kanban Board
-
-## Learnings für die Projektarbeit
-
+![](attachments/Pasted%20image%2020240130222812.png)
 
 
+## Learnings für die nächste Arbeit
 
-## Nächste Schritte
+Ein tieferes Verständnis der verwendeten Tools wie Flask, AWS Elastic Beanstalk und Boto3 ist unerlässlich, um technische Herausforderungen effizienter zu meistern. Es wurde deutlich, wie wichtig eine direkte Dokumentation während des Entwicklungsprozesses ist, um Zeit zu sparen und das Debugging zu erleichtern. Eine bessere Planung und realistischere Zeitvorgaben sind notwendig, um besser auf unvorhergesehene Probleme reagieren zu können. Ein tieferes Verständnis der Berechtigungen und Upload-Anforderungen von AWS Elastic Beanstalk ist entscheidend für einen reibungslosen Betrieb. Eine frühzeitige Auseinandersetzung mit Tools wie Github Actions kann zu einer reibungsloseren Integration und weniger Zeitdruck führen.
 
+Diese Learnings haben nicht nur zur technologischen Weiterentwicklung beigetragen, sondern unterstreichen auch die Wichtigkeit einer durchdachten Planung und kontinuierlichen Auseinandersetzung mit neuen Technologien. Sie dienen als Grundlage für die kontinuierliche Verbesserung zukünftiger Projekte. Eine ausführlichere Zusammenfassung des Projekts findent man Hier [Projektabschluss und Fazit](../Projektabschluss%20und%20Fazit.md) 

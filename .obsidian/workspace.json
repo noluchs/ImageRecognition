@@ -32,43 +32,20 @@
             }
           },
           {
-            "id": "e2a9706507dda369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b504188056319608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59dff5dc2daded3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anhang/Quellen.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md"
+                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md"
               }
             }
           }
@@ -199,33 +176,36 @@
   "active": "b504188056319608",
   "lastOpenFiles": [
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002334.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002209.png",
+    "Anhang/Quellen.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
-    "docs/4_Presentation/ImageRekognition.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
-    "docs/1_Einleitung/readme.md",
-    "Anhang/Quellen.md",
-    "Anhang/Recherche.md",
+    "docs/2_Projektorganisation/Projektorganisation.md",
+    "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
+    "docs/2_Projektorganisation/Kanban.md",
+    "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+    "Anhang/Sachmittel.md",
     "README.md",
+    "Anhang/Recherche.md",
+    "docs/1_Einleitung/readme.md",
+    "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
+    "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
+    "docs/2_Projektorganisation/Sprints/attachments/Pasted image 20240130222812.png",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002334.png",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002209.png",
+    "docs/4_Presentation/ImageRekognition.md",
     "docs/4_Presentation",
     "docs/3_Umsetzung/3.2_Flask/readme.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
-    "docs/2_Projektorganisation/Fazit.md",
-    "docs/2_Projektorganisation/Projektmethode.md",
-    "docs/2_Projektorganisation/Kanban.md",
     "docs/Aufbau Umgebung/readme.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201448.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201301.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195840.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195736.png",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments",
-    "Anhang/Sachmittel.md",
-    "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "code/lamda-flask/templates/assets/js/script.min.js",
     "code/lamda-flask/templates/assets/css/styles.min.css",
     "code/lamda-flask/templates/assets/js/Basic-fancyBox-Gallery-myfancybox.js",
@@ -235,10 +215,7 @@
     "code/lamda-flask/templates/assets/js/Lightbox-Gallery-baguetteBox.min.js",
     "code/lamda-flask/templates/assets/js",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
-    "code/lamda-flask/templates/assets/img/OIG.jpeg",
-    "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
-    "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "code/rekognition-demo-master/README.md",
     "docs/Aufbau Umgebung/Aufbau AWS Lamda Github Actions.md",
     "docs/Aufbau Umgebung/Aufbau S3.md",

@@ -42,3 +42,10 @@ https://medium.com/seamless-cloud/automated-deployment-to-aws-elastic-beanstalk-
 ## Flask Website Template
 
 https://github.com/app-generator/sample-flask-bootstrap
+
+
+## Elastic Beanstalk
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-development-environment.html
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-softwaresettings.html?icmpid=docs_elasticbeanstalk_console
