@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+                "file": "docs/1_Einleitung/readme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+                "file": "docs/1_Einleitung/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+                "file": "docs/1_Einleitung/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md"
+                "file": "docs/1_Einleitung/readme.md"
               }
             }
           }
@@ -163,6 +163,9 @@
   },
   "active": "06546d82b1a5d649",
   "lastOpenFiles": [
+    "docs/4_Presentation/ImageRekognition.key.sb-6a0b0067-AmF7xh",
+    "docs/4_Presentation/ImageRekognition.key",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
@@ -171,7 +174,6 @@
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
     "Anhang/Quellen.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/2_Projektorganisation/Projektorganisation.md",
     "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
     "docs/2_Projektorganisation/Kanban.md",
@@ -201,7 +203,6 @@
     "code/lamda-flask/templates/assets/css/Lightbox-Gallery-baguetteBox.min.css",
     "code/lamda-flask/templates/assets/js/Lightbox-Gallery.js",
     "code/lamda-flask/templates/assets/js/Lightbox-Gallery-baguetteBox.min.js",
-    "code/lamda-flask/templates/assets/js",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "code/rekognition-demo-master/README.md",
