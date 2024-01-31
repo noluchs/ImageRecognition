@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md"
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md"
               }
             }
           }
@@ -150,20 +150,22 @@
   },
   "active": "8f7a325d9c2cb0d2",
   "lastOpenFiles": [
+    "docs/3_Umsetzung/3.2_Flask/attachments/Unbenanntes Diagramm.jpg",
+    "docs/4_Presentation/ImageRekognition.key.sb-6a0b0067-OQy76E",
+    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
+    "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
+    "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
     "README.md",
     "docs/4_Presentation/ImageRekognition.pdf",
     "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/1_Einleitung/readme.md",
-    "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
     "Anhang/Quellen.md",
     "docs/4_Presentation/ImageRekognition.key.sb-6a0b0067-AmF7xh",
     "docs/4_Presentation/ImageRekognition.key",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
-    "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
-    "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
+    "docs/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+    "docs/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
     "docs/2_Projektorganisation/Projektorganisation.md",
     "docs/2_Projektorganisation/Kanban.md",
     "Anhang/Sachmittel.md",
@@ -171,24 +173,23 @@
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/2_Projektorganisation/Sprints/attachments/Pasted image 20240130222812.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002334.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240130002209.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240130002334.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240130002209.png",
     "docs/4_Presentation/ImageRekognition.md",
     "docs/4_Presentation",
     "docs/3_Umsetzung/3.2_Flask/readme.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129231519.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129225022.png",
     "docs/Aufbau Umgebung/readme.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201448.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129201301.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195840.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments/Pasted image 20240129195736.png",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/attachments",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129201448.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129201301.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129195840.png",
+    "docs/3.3_AWS Beanstalk/attachments/Pasted image 20240129195736.png",
+    "docs/3.3_AWS Beanstalk/attachments",
     "code/lamda-flask/templates/assets/js/script.min.js",
     "code/lamda-flask/templates/assets/css/styles.min.css",
     "code/lamda-flask/templates/assets/js/Basic-fancyBox-Gallery-myfancybox.js",
     "code/lamda-flask/templates/assets/css/Basic-fancyBox-Gallery.css",
-    "code/lamda-flask/templates/assets/css/Lightbox-Gallery-baguetteBox.min.css",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "code/rekognition-demo-master/README.md",
