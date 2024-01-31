@@ -8,6 +8,16 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 ## Inhaltsverzeichnis
 
 [Einleitung](docs/1_Einleitung/readme.md)<br>
+### Projektmanagement
+[Projektorganisation](docs/2_Projektorganisation/Projektorganisation.md)<br>
+[Kanban](docs/2_Projektorganisation/Kanban.md)<br>
+[Projektabschluss und Fazit](docs/2_Projektorganisation/Projektabschluss%20und%20Fazit.md)<br>
+#### Sprint 
+[Sprint 1 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%201%20Abschluss.md)<br>
+[Sprint 2 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%202%20Abschluss.md)<br>
+[Sprint 3 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%203%20Abschluss.md)<br>
+[Projektabschluss und Fazit](docs/2_Projektorganisation/Projektabschluss%20und%20Fazit.md)
+
 ### Umsetzung
 #### Lamda
 [3.1.1_AWS Rekognition Ersterversuch](docs/3_Umsetzung/3.1_Lamda%20Function/3.1.1_AWS%20Rekognition%20Ersterversuch.md)<br>
@@ -18,15 +28,7 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 #### AWS Beanstalk
 [3.3.1_AWS Elastic Beanstalk einrichten](docs/3_Umsetzung/3.3_AWS%20Beanstalk/3.3.1_AWS%20Elastic%20Beanstalk%20einrichten.md)<br>
 [3.3.2_AWS CodePipline](docs/3_Umsetzung/3.3_AWS%20Beanstalk/3.3.2_AWS%20CodePipline.md)<br>
-### Projektmanagement
-[Projektorganisation](docs/2_Projektorganisation/Projektorganisation.md)<br>
-[Kanban](docs/2_Projektorganisation/Kanban.md)<br>
-[Projektabschluss und Fazit](docs/2_Projektorganisation/Projektabschluss%20und%20Fazit.md)<br>
-#### Sprint 
-[Sprint 1 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%201%20Abschluss.md)<br>
-[Sprint 2 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%202%20Abschluss.md)<br>
-[Sprint 3 Abschluss](docs/2_Projektorganisation/Sprints/Sprint%203%20Abschluss.md)<br>
-[Projektabschluss und Fazit](docs/2_Projektorganisation/Projektabschluss%20und%20Fazit.md)<br>
+<br>
 ## Literaturverzeichnis
 [Quellen](Anhang/Quellen.md)<br>
 [Sachmittel](Anhang/Sachmittel.md)<br>

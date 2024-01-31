@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "2b6ef172f137ee26",
+            "id": "06546d82b1a5d649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anhang/Quellen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b504188056319608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md"
+                "file": "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md"
               }
             }
           }
@@ -173,21 +161,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b504188056319608",
+  "active": "06546d82b1a5d649",
   "lastOpenFiles": [
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
-    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
-    "Anhang/Quellen.md",
-    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/3_Umsetzung/3.2_Flask/3.2.1_Upload S3 Bucket.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.2_AWS  Rekognition Gallery.md",
     "docs/3_Umsetzung/3.1_Lamda Function/3.1.1_AWS Rekognition Ersterversuch.md",
+    "README.md",
+    "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
+    "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
+    "Anhang/Quellen.md",
+    "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
     "docs/2_Projektorganisation/Projektorganisation.md",
     "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
     "docs/2_Projektorganisation/Kanban.md",
-    "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "Anhang/Sachmittel.md",
-    "README.md",
     "Anhang/Recherche.md",
     "docs/1_Einleitung/readme.md",
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
