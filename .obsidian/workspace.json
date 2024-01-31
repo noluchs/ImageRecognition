@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/2_Projektorganisation/Projektabschluss und Fazit.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "8f7a325d9c2cb0d2",
   "lastOpenFiles": [
-    "docs/4_Presentation/ImageRekognition.pdf",
     "README.md",
+    "docs/4_Presentation/ImageRekognition.pdf",
     "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/1_Einleitung/readme.md",
     "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
