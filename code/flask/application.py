@@ -3,6 +3,8 @@ from werkzeug.utils import secure_filename
 import boto3
 import os
 from dotenv import load_dotenv
+from PIL import Image
+import io
 
 load_dotenv("aws.env")
 
@@ -20,13 +22,31 @@ rekognition = boto3.client('rekognition',
     aws_secret_access_key=os.environ.get("S3_SECRET"),
 )
 
+
+def resize_image(image, basewidth=300):  # Reduced from 500 to 300
+    img = Image.open(image)
+    wpercent = (basewidth / float(img.size[0]))
+    hsize = int((float(img.size[1]) * float(wpercent)))
+    img = img.resize((basewidth, hsize), Image.ANTIALIAS)
+    return img
+
+
 @application.route('/', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
         file = request.files['file']
         filename = secure_filename(file.filename)
-        s3.upload_fileobj(file, os.environ.get("UPLOAD_BUCKET"), filename)
+
+        # Resize the image before uploading to S3
+        image = resize_image(file)
+        image_io = io.BytesIO()
+        image.save(image_io, format='JPEG')
+        image_io.seek(0)
+
+        s3.upload_fileobj(image_io, os.environ.get("UPLOAD_BUCKET"), filename)
         matches = compare_faces(filename)
+        if not matches:  # Check if matches list is empty
+            return render_template('gallery.html', message="Kein Match gefunden")
         return render_template('gallery.html', matches=matches)
     return render_template('upload.html')
 

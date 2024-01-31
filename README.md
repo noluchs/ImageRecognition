@@ -28,8 +28,10 @@ Dieses Projekt zielt darauf ab, eine Webanwendung zu entwickeln, die eine Bilder
 #### AWS Beanstalk
 [3.3.1_AWS Elastic Beanstalk einrichten](docs/3_Umsetzung/3.3_AWS%20Beanstalk/3.3.1_AWS%20Elastic%20Beanstalk%20einrichten.md)<br>
 [3.3.2_AWS CodePipline](docs/3_Umsetzung/3.3_AWS%20Beanstalk/3.3.2_AWS%20CodePipline.md)<br>
-<br>
-## Literaturverzeichnis
+### Presentation <br>
+![](docs/4_Presentation/ImageRekognition.pdf)
+
+### Literaturverzeichnis
 [Quellen](Anhang/Quellen.md)<br>
 [Sachmittel](Anhang/Sachmittel.md)<br>
 

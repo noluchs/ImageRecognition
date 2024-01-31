@@ -49,3 +49,6 @@ https://github.com/app-generator/sample-flask-bootstrap
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/python-development-environment.html
 
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-softwaresettings.html?icmpid=docs_elasticbeanstalk_console
+
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html

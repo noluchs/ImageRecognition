@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Einleitung/readme.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1_Einleitung/readme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1_Einleitung/readme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1_Einleitung/readme.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,6 +163,10 @@
   },
   "active": "06546d82b1a5d649",
   "lastOpenFiles": [
+    "docs/1_Einleitung/readme.md",
+    "docs/4_Presentation/ImageRekognition.pdf",
+    "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
+    "Anhang/Quellen.md",
     "docs/4_Presentation/ImageRekognition.key.sb-6a0b0067-AmF7xh",
     "docs/4_Presentation/ImageRekognition.key",
     "docs/3_Umsetzung/3.2_Flask/3.2.2_Flask Applikation.md",
@@ -173,13 +177,10 @@
     "docs/2_Projektorganisation/Sprints/Sprint 3 Abschluss.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.2_AWS CodePipline.md",
     "docs/3_Umsetzung/3.3_AWS Beanstalk/3.3.1_AWS Elastic Beanstalk einrichten.md",
-    "Anhang/Quellen.md",
     "docs/2_Projektorganisation/Projektorganisation.md",
-    "docs/2_Projektorganisation/Projektabschluss und Fazit.md",
     "docs/2_Projektorganisation/Kanban.md",
     "Anhang/Sachmittel.md",
     "Anhang/Recherche.md",
-    "docs/1_Einleitung/readme.md",
     "docs/2_Projektorganisation/Sprints/Sprint 2 Abschluss.md",
     "docs/2_Projektorganisation/Sprints/Sprint 1 Abschluss.md",
     "docs/2_Projektorganisation/Sprints/attachments/Pasted image 20240130222812.png",
@@ -201,8 +202,6 @@
     "code/lamda-flask/templates/assets/js/Basic-fancyBox-Gallery-myfancybox.js",
     "code/lamda-flask/templates/assets/css/Basic-fancyBox-Gallery.css",
     "code/lamda-flask/templates/assets/css/Lightbox-Gallery-baguetteBox.min.css",
-    "code/lamda-flask/templates/assets/js/Lightbox-Gallery.js",
-    "code/lamda-flask/templates/assets/js/Lightbox-Gallery-baguetteBox.min.js",
     "code/lamda-flask/templates/assets/img/logo.jpeg",
     "docs/Aufbau Umgebung/Flask/Lamda ausführen.md",
     "code/rekognition-demo-master/README.md",
